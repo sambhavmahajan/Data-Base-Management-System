@@ -63,7 +63,7 @@ def main():
                 if tkns[0] in IndexT:
                     print("Error:", tkns[0], "Index already exists")
                 else:
-                    IndexT += tkns[0]
+                    IndexT.append(tkns[0])
                     tkns.pop(0)
                     Insert(tkns)
             elif command == "delete_row":
@@ -205,4 +205,4 @@ def Avg(columnName):
 
 
 if __name__ == '__main__':
-    main()
+        main()

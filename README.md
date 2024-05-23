@@ -1,6 +1,6 @@
 # Data-Base-Management-System (DBMS)
 
-This Python program is a simple Database Management System (DBMS) created as an assignment for Disruptive Technology - 1, Semester 1 project.
+This Database Management System (DBMS) is crafted to facilitate basic database operations via a command-line interface. It empowers users to create tables, execute data insertion, perform various operations, and visualize data using matplotlib.
 
 ## Table of Contents
 
